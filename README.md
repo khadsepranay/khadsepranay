@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranay Khadse</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
-<img src="https://www.gtpsoftwares.com/images/mern/mern-banner.jpg"></img>
+<div align="center" margin="100px">
+<img width="50%" src="https://teamamco.com/wp-content/uploads/2021/12/1624939546-3-MERN-Stack-Developer.png"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khadsepranay&label=Profile%20views&color=0e75b6&style=flat" alt="khadsepranay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khadsepranay" alt="khadsepranay" /></a> </p>
 
 - 🌱 I’m currently learning **React | NodeJS | ExpressJS | MongoDB**
 
@@ -14,11 +13,11 @@
 
 - 🔭 Individual Project [Trackingtime - clone](https://aesthetic-tartufo-d0e8be.netlify.app/login)
 
-- 👯 Group Project [KindMeal.my](https://lucent-chebakia-efbb4f.netlify.app/)
+- 👯 Group Project [KindMeal.my - clone](https://lucent-chebakia-efbb4f.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [Click Here](https://khadsepranay.github.io/)
 
-- 📄 Resume [https://drive.google.com/drive/u/0/folders/1d0l5bk5wYfUFzKHtJAtJTXJRnq-aLVEc](https://drive.google.com/drive/u/0/folders/1d0l5bk5wYfUFzKHtJAtJTXJRnq-aLVEc)
+- 📄 Resume [Click here](https://drive.google.com/drive/u/0/folders/1d0l5bk5wYfUFzKHtJAtJTXJRnq-aLVEc)
 
 
 - 📫 How to reach me **pranitkhadse20@gmail.com**
