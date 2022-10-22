@@ -11,7 +11,7 @@
 
 - 🔭 Individual Project [Trackingtime - clone](https://aesthetic-tartufo-d0e8be.netlify.app/login)
 
-- 👯 Group Project [KindMeal.my](https://lucent-chebakia-efbb4f.netlify.app/)
+- 👯 Group Project [KindMeal.my - clone](https://lucent-chebakia-efbb4f.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://khadsepranay.github.io/](https://khadsepranay.github.io/)
 
