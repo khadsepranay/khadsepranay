@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranay Khadse</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
-<div align="center" margin="100px">
+<div align="center" paddingTop="500px">
 <img width="50%" src="https://teamamco.com/wp-content/uploads/2021/12/1624939546-3-MERN-Stack-Developer.png"/>
 </div>
 
