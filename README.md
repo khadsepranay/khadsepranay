@@ -49,16 +49,16 @@ IT company.
       <br />
      <div align="center" >
       
-     <a href="https://www.linkedin.com/in/sujeetcoder/" target="_blank">
+     <a href="https://www.linkedin.com/in/pranay-khadse-b2ba86179/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
-      <a href="https://sujeetcoder.github.io/" target="_blank">
+      <a href="https://khadsepranay.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
-      <a href="https://twitter.com/sujeetcoder" target="_blank">
+      <a href="https://twitter.com/PranayKhadse20" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
       
-      <a title="sujeet-kumar" href="mailto:sujeetkumaryadav202020@gmail.com" target="_blank">
+      <a title="Pranay Khadse" href="mailto:pranitkhadse20@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>
@@ -125,25 +125,21 @@ IT company.
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-        <img alt="sujeetcoder Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetcoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="khadsepranay Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadsepranay&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </p>      
            <br/>
          <p align="center">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sujeetcoder streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetcoder&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="khadsepranay streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khadsepranay&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
         </p>                                                                                                                                              
       
         <br/>
         <br/>
            <p align="center">                                                                                                 
-          <img alt="sujeetcoder Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujeetcoder&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
+          <img alt="khadsepranay Github Stats" src="https://github-readme-stats.vercel.app/api?username=khadsepranay&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
           </p>                                                                 
        <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
       
       
-      <br/>
-      <br/>
-      
-     <p> <img alt="sujeetcoder Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujeetcoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </p>
       
       <br/>
       <br/>
