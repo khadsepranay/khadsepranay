@@ -33,7 +33,7 @@ IT company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/14VPFaCIuT8h8yoK4Sw-nViEAIJ6hR6J0/view?usp=sharing" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/14VPFaCIuT8h8yoK4Sw-nViEAIJ6hR6J0/view" target="_blank" >Resume</a>
       
       - 💻 Know more about me <a href="https://khadsepranay.github.io" target="_blank"  >Portfolio</a>
       
