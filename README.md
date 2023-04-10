@@ -37,7 +37,7 @@ IT company.
       
       - 💻 Know more about me <a href="https://khadsepranay.github.io" target="_blank"  >Portfolio</a>
       
-      - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, Material-UI, ExpressJS, MongoDB & DSA*
+      - 💬 Ask me about *HTML, CSS, JavaScript, React, Redux, TypeScript, Chakra-UI, Material-UI, ExpressJS, MongoDB & DSA*
       
       - 📫 How to reach me *pranitkhadse20@gmail.com*
       
